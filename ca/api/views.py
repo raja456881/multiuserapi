@@ -14,7 +14,6 @@ import random
 from django.conf import settings
 
 
-
 class studentresgister(viewsets.ViewSet):
 
     def create(self, request):
